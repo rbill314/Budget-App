@@ -151,7 +151,7 @@ class Category:
 # is at his youTube channel Landon Schlangen.. https://www.youtube.com/channel/UC4oRFTHw71_CBSHAcCRmV6w
 # The link is https://www.youtube.com/watch?v=2OL3rbEYWLU
 
-# This is my second time with python and I will come back to this project as I
+# This is my third time with python and I will come back to this project as I
 # further skills through the other projects.
 # Thank you again to everyone that shares their knowledge to help others learn.
 # Watching a wide variety of people to achieve the same goal in all
